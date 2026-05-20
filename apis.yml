@@ -7,4 +7,9 @@ description: 'Fortune 1000 company Goldman Sachs Group. Public API documentation
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/goldmansachs
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/goldman-sachs
 apis: []
