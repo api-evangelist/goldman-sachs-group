@@ -1,4 +1,6 @@
 aid: goldman-sachs-group
+tags:
+  - Fortune 100
 url: https://raw.githubusercontent.com/api-evangelist/goldman-sachs-group/refs/heads/main/apis.yml
 name: Goldman Sachs Group
 type: Index
