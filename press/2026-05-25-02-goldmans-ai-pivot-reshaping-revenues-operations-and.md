@@ -1,7 +1,9 @@
 ---
 title: 'Goldman''s AI Pivot: Reshaping Revenues, Operations & ...'
 url: https://www.theglobeandmail.com/investing/markets/stocks/C/pressreleases/1717785/goldmans-ai-pivot-reshaping-revenues-operations-long-term-growth/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Goldman Sachs Group" press release artificial intelligence'
 position: 2
 source: serpapi-google
